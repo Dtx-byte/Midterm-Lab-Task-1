@@ -1,5 +1,5 @@
 [←𝗚𝗼 𝗕𝗮𝗰𝗸](https://dtx-byte.github.io/Dxt_EDMPortfolio/)
-# Midterm Task 1
+# [Midterm Task 1](https://github.com/Dtx-byte/Midterm-Lab-Task-1/blob/main/CleanedData.xlsx)
 For this task we are given a Flat data from Excel (See rawfile) and we are Task to perform Data CLeaning and Preparation
 
 ## STEP 1 Data Cleaning process
